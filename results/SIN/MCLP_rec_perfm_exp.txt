@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 9: 0.75%
+Best NDCG@1 achieved at Epoch 9: 0.75%
+Best HR@5 achieved at Epoch 9: 2.87%
+Best NDCG@5 achieved at Epoch 9: 1.75%
+Best HR@10 achieved at Epoch 9: 4.74%
+Best NDCG@10 achieved at Epoch 9: 2.35%

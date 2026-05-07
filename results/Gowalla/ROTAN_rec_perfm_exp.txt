@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 56: 0.81%
+Best NDCG@1 achieved at Epoch 56: 0.81%
+Best HR@5 achieved at Epoch 56: 3.83%
+Best NDCG@5 achieved at Epoch 56: 2.27%
+Best HR@10 achieved at Epoch 56: 6.82%
+Best NDCG@10 achieved at Epoch 56: 3.23%

@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 38: 0.75%
+Best NDCG@1 achieved at Epoch 38: 0.75%
+Best HR@5 achieved at Epoch 38: 2.61%
+Best NDCG@5 achieved at Epoch 38: 1.62%
+Best HR@10 achieved at Epoch 38: 6.90%
+Best NDCG@10 achieved at Epoch 38: 3.01%

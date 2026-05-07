@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 74: 0.36%
+Best NDCG@1 achieved at Epoch 74: 0.36%
+Best HR@5 achieved at Epoch 74: 2.31%
+Best NDCG@5 achieved at Epoch 74: 1.31%
+Best HR@10 achieved at Epoch 74: 4.38%
+Best NDCG@10 achieved at Epoch 74: 1.97%

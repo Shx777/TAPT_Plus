@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 36: 0.79%
+Best NDCG@1 achieved at Epoch 36: 0.79%
+Best HR@5 achieved at Epoch 36: 3.45%
+Best NDCG@5 achieved at Epoch 36: 2.19%
+Best HR@10 achieved at Epoch 36: 6.48%
+Best NDCG@10 achieved at Epoch 36: 3.17%

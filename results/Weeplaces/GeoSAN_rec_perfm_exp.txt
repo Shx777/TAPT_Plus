@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 24: 0.14%
+Best NDCG@1 achieved at Epoch 24: 0.14%
+Best HR@5 achieved at Epoch 24: 0.75%
+Best NDCG@5 achieved at Epoch 24: 0.43%
+Best HR@10 achieved at Epoch 24: 1.42%
+Best NDCG@10 achieved at Epoch 24: 0.65%

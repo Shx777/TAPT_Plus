@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 93: 0.25%
+Best NDCG@1 achieved at Epoch 93: 0.25%
+Best HR@5 achieved at Epoch 93: 2.84%
+Best NDCG@5 achieved at Epoch 93: 1.48%
+Best HR@10 achieved at Epoch 93: 5.64%
+Best NDCG@10 achieved at Epoch 93: 2.38%

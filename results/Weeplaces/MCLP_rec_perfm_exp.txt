@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 116: 0.47%
+Best NDCG@1 achieved at Epoch 116: 0.47%
+Best HR@5 achieved at Epoch 116: 2.46%
+Best NDCG@5 achieved at Epoch 116: 1.44%
+Best HR@10 achieved at Epoch 116: 4.19%
+Best NDCG@10 achieved at Epoch 116: 1.99%

@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 17: 0.68%
+Best NDCG@1 achieved at Epoch 17: 0.68%
+Best HR@5 achieved at Epoch 17: 1.84%
+Best NDCG@5 achieved at Epoch 17: 1.23%
+Best HR@10 achieved at Epoch 17: 2.42%
+Best NDCG@10 achieved at Epoch 17: 1.41%

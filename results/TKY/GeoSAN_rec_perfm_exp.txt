@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 13: 0.48%
+Best NDCG@1 achieved at Epoch 13: 0.48%
+Best HR@5 achieved at Epoch 13: 3.69%
+Best NDCG@5 achieved at Epoch 13: 2.02%
+Best HR@10 achieved at Epoch 13: 6.66%
+Best NDCG@10 achieved at Epoch 13: 2.98%

@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 3: 0.48%
+Best NDCG@1 achieved at Epoch 3: 0.48%
+Best HR@5 achieved at Epoch 3: 2.42%
+Best NDCG@5 achieved at Epoch 3: 1.41%
+Best HR@10 achieved at Epoch 3: 4.17%
+Best NDCG@10 achieved at Epoch 3: 1.95%

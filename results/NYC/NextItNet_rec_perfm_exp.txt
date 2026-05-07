@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 18: 0.48%
+Best NDCG@1 achieved at Epoch 18: 0.48%
+Best HR@5 achieved at Epoch 18: 2.13%
+Best NDCG@5 achieved at Epoch 18: 1.30%
+Best HR@10 achieved at Epoch 18: 3.49%
+Best NDCG@10 achieved at Epoch 18: 1.74%

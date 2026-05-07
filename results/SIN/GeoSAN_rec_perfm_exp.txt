@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 21: 0.41%
+Best NDCG@1 achieved at Epoch 21: 0.41%
+Best HR@5 achieved at Epoch 21: 3.77%
+Best NDCG@5 achieved at Epoch 21: 2.00%
+Best HR@10 achieved at Epoch 21: 7.46%
+Best NDCG@10 achieved at Epoch 21: 3.19%

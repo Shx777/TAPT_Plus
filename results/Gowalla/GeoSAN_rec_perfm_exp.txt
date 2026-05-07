@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 89: 0.35%
+Best NDCG@1 achieved at Epoch 89: 0.35%
+Best HR@5 achieved at Epoch 89: 3.15%
+Best NDCG@5 achieved at Epoch 89: 1.68%
+Best HR@10 achieved at Epoch 89: 6.85%
+Best NDCG@10 achieved at Epoch 89: 2.86%

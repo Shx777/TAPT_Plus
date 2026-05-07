@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 28: 0.48%
+Best NDCG@1 achieved at Epoch 28: 0.48%
+Best HR@5 achieved at Epoch 28: 2.91%
+Best NDCG@5 achieved at Epoch 28: 1.64%
+Best HR@10 achieved at Epoch 28: 5.09%
+Best NDCG@10 achieved at Epoch 28: 2.34%

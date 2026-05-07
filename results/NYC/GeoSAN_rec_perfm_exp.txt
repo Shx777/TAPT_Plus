@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 16: 0.48%
+Best NDCG@1 achieved at Epoch 16: 0.48%
+Best HR@5 achieved at Epoch 16: 3.49%
+Best NDCG@5 achieved at Epoch 16: 1.93%
+Best HR@10 achieved at Epoch 16: 5.04%
+Best NDCG@10 achieved at Epoch 16: 2.43%

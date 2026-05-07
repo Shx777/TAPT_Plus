@@ -1,0 +1,6 @@
+Best HR@1 achieved at Epoch 44: 0.75%
+Best NDCG@1 achieved at Epoch 44: 0.75%
+Best HR@5 achieved at Epoch 44: 3.37%
+Best NDCG@5 achieved at Epoch 44: 2.03%
+Best HR@10 achieved at Epoch 44: 5.81%
+Best NDCG@10 achieved at Epoch 44: 2.82%
